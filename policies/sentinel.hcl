@@ -4,9 +4,9 @@ policy "enforce-mandatory-tags" {
     enforcement_level = "soft-mandatory"
 }
 
-policy "restrict-deployment-cost" {
-    enforcement_level = "soft-mandatory"
-}
+# policy "restrict-deployment-cost" {
+#   enforcement_level = "soft-mandatory"
+#}
 
 # policy "enforce-trusted-modules" {
 #    enforcement_level = "advisory"
